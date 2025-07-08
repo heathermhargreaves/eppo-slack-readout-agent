@@ -90,7 +90,7 @@ A simple Slack bot that fetches and displays Eppo experiment results with confid
    ```
    SLACK_BOT_TOKEN=xoxb-your-bot-token-from-step-2
    SLACK_SIGNING_SECRET=your-signing-secret-from-step-3
-   EPPO_API_URL=https://api.geteppo.com/api/v1/experiments
+   EPPO_API_URL=https://eppo.cloud/api/v1/experiments
    EPPO_API_TOKEN=your-eppo-api-token-from-step-5
    ```
 
